@@ -1,0 +1,1 @@
+<!-- md5($password_1) 5md() is a function that encrypts/hashes pw-->
