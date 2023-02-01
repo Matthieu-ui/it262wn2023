@@ -12,7 +12,7 @@
  */
 
 //place credentials here:
-define('DB_NAME','DATABASE NAME GOES HERE');
-define('DB_USER','MYSQL USER NAME GOES HERE');
-define('DB_PASSWORD','PASSWORD GOES HERE');
-define('DB_HOST','MYSQL SERVER NAME GOES HERE'); 
+define('DB_NAME','vqbrzjmy_school_projects');
+define('DB_USER','vqbrzjmy_dbUser');
+define('DB_PASSWORD','NewDog808!');
+define('DB_HOST','matthieufelker.vqb.rzj.mybluehost.me'); 
